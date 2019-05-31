@@ -18,13 +18,13 @@
 
 .background {
   color: #eaeaea;
-  background-color: #2a2a2a; }
+  background-color: #323131; }
 
 *:disabled {
   -gtk-icon-effect: dim; }
 
 .gtkstyle-fallback {
-  background-color: #2a2a2a;
+  background-color: #323131;
   color: #eaeaea; }
   .gtkstyle-fallback:hover {
     background-color: #4e4f52;
@@ -81,7 +81,7 @@ label:disabled {
   text-shadow: none; }
 
 assistant .sidebar {
-  background-color: #2a2a2a;
+  background-color: #323131;
   border-top: 1px solid #171819; }
 
 assistant.csd .sidebar {
@@ -1086,7 +1086,7 @@ combobox arrow {
 toolbar {
   -GtkWidget-window-dragging: true;
   padding: 4px;
-  background-color: #2a2a2a; }
+  background-color: #323131; }
   toolbar separator {
     background: none; }
   toolbar.horizontal separator {
@@ -1648,7 +1648,7 @@ window.csd > .titlebar:not(headerbar) {
       background-image: linear-gradient(to bottom, #3a3b3d, #46484a); }
   .budgie-panel scale.horizontal trough:disabled, .raven scale.horizontal trough:disabled, .drop-shadow scale.horizontal trough:disabled, .budgie-session-dialog.background scale.horizontal trough:disabled, .background.budgie-polkit-dialog scale.horizontal trough:disabled, .background.budgie-run-dialog scale.horizontal trough:disabled {
     box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
-    background-image: linear-gradient(to bottom, #2a2a2a, #3c3e40); }
+    background-image: linear-gradient(to bottom, #323131, #3c3e40); }
 
 .budgie-panel scale slider, .raven scale slider, .drop-shadow scale slider, .budgie-session-dialog.background scale slider, .background.budgie-polkit-dialog scale slider, .background.budgie-run-dialog scale slider {
   background-image: -gtk-scaled(url("assets/slider-dark.png"), url("assets/slider-dark@2.png")); }
@@ -2021,7 +2021,7 @@ treeview.view {
     treeview.view header button:active:hover {
       color: #eaeaea; }
     treeview.view header button:disabled {
-      background-color: #2a2a2a; }
+      background-color: #323131; }
     treeview.view header button:last-child {
       border-right-style: none; }
   treeview.view button.dnd, treeview.view button.dnd:selected, treeview.view button.dnd:hover, treeview.view button.dnd:active,
@@ -2824,7 +2824,7 @@ scale {
         background-image: linear-gradient(to bottom, #3a3b3d, #46484a); }
     scale.horizontal trough:disabled {
       box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.1);
-      background-image: linear-gradient(to bottom, #2a2a2a, #3c3e40); }
+      background-image: linear-gradient(to bottom, #323131, #3c3e40); }
     .osd scale.horizontal trough {
       background-image: linear-gradient(to bottom, rgba(29, 29, 31, 0.5), rgba(39, 39, 41, 0.5));
       box-shadow: inset 0 1px 2px rgba(0, 0, 0, 0.2);
@@ -2867,7 +2867,7 @@ scale {
         background-image: linear-gradient(to right, #3a3b3d, #46484a); }
     scale.vertical trough:disabled {
       box-shadow: inset 1px 0 2px rgba(0, 0, 0, 0.1);
-      background-image: linear-gradient(to right, #2a2a2a, #3c3e40); }
+      background-image: linear-gradient(to right, #323131, #3c3e40); }
   scale slider {
     min-width: 19px;
     min-height: 19px;
@@ -3103,7 +3103,7 @@ scrolledwindow undershoot.right {
   background-position: right center; }
 
 scrolledwindow junction {
-  background-color: #2a2a2a;
+  background-color: #323131;
   background-image: none;
   border: none; }
 
@@ -3239,7 +3239,7 @@ messagedialog .dialog-action-area {
     outline-color: rgba(255, 255, 255, 0.3); }
 
 filechooser #pathbarbox {
-  background-color: #2a2a2a;
+  background-color: #323131;
   border-bottom: 1px solid rgba(23, 24, 25, 0.5); }
 
 button.file:drop(active) {
@@ -3247,7 +3247,7 @@ button.file:drop(active) {
 
 .sidebar {
   border: none;
-  background-color: #2a2a2a;
+  background-color: #323131;
   color: rgba(243, 243, 245, 0.8);
   -gtk-icon-shadow: 0 -1px rgba(0, 0, 0, 0.7);
   text-shadow: 0 -1px rgba(0, 0, 0, 0.7); }
@@ -3345,7 +3345,7 @@ paned > separator {
   paned > separator.wide {
     min-width: 5px;
     min-height: 5px;
-    background-color: #2a2a2a;
+    background-color: #323131;
     background-image: linear-gradient(to bottom, #171819, #171819), linear-gradient(to bottom, #171819, #171819);
     background-size: 1px 1px, 1px 1px; }
 
@@ -3811,7 +3811,7 @@ GraniteWidgetsStaticNotebook .frame {
 .source-list,
 .source-list.view,
 iconview.source-list {
-  background-color: #2a2a2a;
+  background-color: #323131;
   color: #eaeaea;
   -gtk-icon-style: regular; }
 
@@ -3833,7 +3833,7 @@ iconview.source-list:selected:focus,
 .source-list .scrollbars-junction {
   border-image: none;
   border-color: transparent;
-  background-color: #2a2a2a;
+  background-color: #323131;
   background-image: none; }
 
 .source-list.badge,
@@ -4019,7 +4019,7 @@ terminal-window scrollbar.vertical slider {
     color: rgba(255, 255, 255, 0.9); }
 
 .gedit-document-panel {
-  background-color: #2a2a2a; }
+  background-color: #323131; }
   .gedit-document-panel row button {
     min-width: 22px;
     min-height: 22px;
@@ -4127,7 +4127,7 @@ eggsearchbar box.search-bar {
   border-bottom: 1px solid #171819; }
 
 perspectiveswitcher {
-  background: #2a2a2a; }
+  background: #323131; }
   perspectiveswitcher button:checked, perspectiveswitcher button:active {
     color: #4080fb;
     -gtk-icon-shadow: none; }
@@ -4162,7 +4162,7 @@ dockpaned {
   border: 1px solid #171819; }
 
 dockoverlayedge {
-  background-color: #2a2a2a; }
+  background-color: #323131; }
   dockoverlayedge docktabstrip {
     padding: 0;
     border: none; }
@@ -4565,7 +4565,7 @@ popover.budgie-menu {
       padding-left: 12px;
       padding-right: 8px; }
   popover.budgie-menu .categories {
-    background-color: #2a2a2a;
+    background-color: #323131;
     border-width: 0; }
     popover.budgie-menu .categories:dir(ltr) {
       border-right: 1px solid @borders; }
@@ -5090,13 +5090,13 @@ UnityPanelWidget,
 
 @define-color theme_fg_color #eaeaea;
 @define-color theme_text_color #eaeaea;
-@define-color theme_bg_color #2a2a2a;
+@define-color theme_bg_color #323131;
 @define-color theme_base_color #2c2c2c;
 @define-color theme_selected_bg_color #4080fb;
 @define-color theme_selected_fg_color #eaeaea;
 @define-color fg_color #eaeaea;
 @define-color text_color #eaeaea;
-@define-color bg_color #2a2a2a;
+@define-color bg_color #323131;
 @define-color base_color #2c2c2c;
 @define-color selected_bg_color #4080fb;
 @define-color selected_fg_color #eaeaea;
@@ -5105,7 +5105,7 @@ UnityPanelWidget,
 @define-color insensitive_base_color #2c2c2c;
 @define-color theme_unfocused_fg_color #eaeaea;
 @define-color theme_unfocused_text_color #eaeaea;
-@define-color theme_unfocused_bg_color #2a2a2a;
+@define-color theme_unfocused_bg_color #323131;
 @define-color theme_unfocused_base_color #2c2c2c;
 @define-color borders #171819;
 @define-color unfocused_borders #171819;

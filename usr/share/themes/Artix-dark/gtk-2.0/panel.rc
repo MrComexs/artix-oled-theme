@@ -2,7 +2,7 @@ style "theme-panel" {
 
   ythickness = 0
 
-  bg[NORMAL] = "#2A2A2A"
+  bg[NORMAL] = "#323131"
   bg[ACTIVE] = "#232323"
   bg[PRELIGHT] = "#3c3c3c"
   bg[SELECTED] = @selected_bg_color
