@@ -468,12 +468,12 @@ style "default" {
 
     # Focuslines
 
-    image {
-      function = FOCUS
-      file = "Others/focus.png"
-      border = { 1, 1, 1, 1 }
-      stretch = TRUE
-    }
+#    image {
+#      function = FOCUS
+#      file = "Others/focus.png"
+#      border = { 1, 1, 1, 1 }
+#      stretch = TRUE
+#    }
 
     # Handles
 
