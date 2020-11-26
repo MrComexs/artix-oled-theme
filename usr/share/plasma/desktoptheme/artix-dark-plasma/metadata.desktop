@@ -1,9 +1,3 @@
-[ContrastEffect]
-contrast=0.2
-enabled=true
-intensity=2.0
-saturation=1.7
-
 [Desktop Entry]
 Name=Artix Dark
 X-KDE-PluginInfo-Author=nous
@@ -13,6 +7,12 @@ X-KDE-PluginInfo-Email=nous@artixlinux.org
 X-KDE-PluginInfo-EnabledByDefault=true
 X-KDE-PluginInfo-License=LGPL 2.1+
 X-KDE-PluginInfo-Name=Artix Dark Plasma
-X-KDE-PluginInfo-Version=0.1.1
+X-KDE-PluginInfo-Version=0.2.1
 X-KDE-PluginInfo-Website=https://artixlinux.org
 X-Plasma-API=5.0
+
+[Wallpaper]
+defaultWallpaperTheme=Artix
+defaultFileSuffix=.jpg
+defaultWidth=1920
+defaultHeight=1080
