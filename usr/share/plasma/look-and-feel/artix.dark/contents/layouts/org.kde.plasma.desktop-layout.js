@@ -24,7 +24,7 @@ var layout = {
                     "textLines": "3"
                 },
                 "/Wallpaper/org.kde.image/General": {
-                    "Image": "file:///usr/share/backgrounds/Artix_dna_spiral_dark.jpg"
+                    "Image": "file:///usr/share/backgrounds/GradientGlowBlue.jpg"
                 }
             },
             "wallpaperPlugin": "org.kde.image"
@@ -75,7 +75,7 @@ var layout = {
                         },
                         "/Configuration": {
                             "PreloadWeight": "0",
-                            "localPath": "/home/artix/.local/share/plasma_icons/org.kde.konsole (1).desktop",
+                            "localPath": "/home/artix/.local/share/plasma_icons/org.kde.konsole.desktop",
                             "url": "file:///usr/share/applications/org.kde.konsole.desktop"
                         }
                     },
@@ -88,7 +88,7 @@ var layout = {
                         },
                         "/Configuration": {
                             "PreloadWeight": "0",
-                            "localPath": "/home/artix/.local/share/plasma_icons/org.kde.dolphin (1).desktop",
+                            "localPath": "/home/artix/.local/share/plasma_icons/org.kde.dolphin.desktop",
                             "url": "file:///usr/share/applications/org.kde.dolphin.desktop"
                         }
                     },
