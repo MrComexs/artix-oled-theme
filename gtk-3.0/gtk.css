@@ -18,7 +18,7 @@
 
 .background {
   color: #eaeaea;
-  background-color: #323131; }
+  background-color: #000000; }
 
 *:disabled {
   -gtk-icon-effect: dim; }
@@ -44,7 +44,7 @@
 iconview text,
 textview text {
   color: #eaeaea;
-  background-color: #2c2c2c; }
+  background-color: #000000; }
   .view:selected, iconview:selected, .view:selected:focus, iconview:selected:focus,
   .view text:selected,
   iconview text:selected,
@@ -1086,7 +1086,7 @@ combobox arrow {
 toolbar {
   -GtkWidget-window-dragging: true;
   padding: 4px;
-  background-color: #323131; }
+  background-color: #000000; }
   toolbar separator {
     background: none; }
   toolbar.horizontal separator {
@@ -2044,7 +2044,7 @@ menubar,
   -GtkWidget-window-dragging: true;
   padding: 0px;
   color: #eaeaea;
-  background-color: #323131; }
+  background-color: #000000; }
   menubar > menuitem,
   .menubar > menuitem {
     padding: 4px 8px;
@@ -2205,7 +2205,7 @@ notebook {
     border: 1px solid #171819;
     border-radius: 2px; }
   notebook > stack:not(:only-child) {
-    background-color: #303031; }
+    background-color: #000000; }
   notebook > header {
     background-color: #2a2a2b; }
     notebook > header.top {
