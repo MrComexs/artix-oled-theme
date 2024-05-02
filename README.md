@@ -1,4 +1,4 @@
-work in progress
+I not longer use this theme so it won't be updated anymore. I switched to [adw-gtk3-oled](https://github.com/MrComexs/adw-gtk3-oled)
 
 I think it only works with gtk 3.0 supported apps since i haven't edited the the 2.0 gtk file yet.
 
